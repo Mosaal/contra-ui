@@ -1,0 +1,19 @@
+{
+  "name": "@contra-ui/cva",
+  "version": "0.0.0",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "class-variance-authority": "^0.7.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
